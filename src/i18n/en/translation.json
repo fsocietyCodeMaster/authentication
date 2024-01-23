@@ -1,0 +1,11 @@
+
+{
+    "Register":{"message":"User is created successfully."},
+    "DeleteUser":{"message":"User is deleted successfully."},
+    "ResetPass":{"message":"Password is changed successfully."},
+    "NewPass":{"message":"New Password is set."},
+    "UpdateUser":{"message":"User is updated successfully."}
+
+
+}
+
